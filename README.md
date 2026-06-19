@@ -2,7 +2,7 @@
 
 A centralized PHP-based software licensing server for managing and verifying licenses across multiple tools. Designed to run on shared hosting (Hostinger) with no external dependencies.
 
-Hosted at: `license.rntinfosec.in`
+
 
 ## Features
 
